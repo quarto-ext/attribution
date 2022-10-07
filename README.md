@@ -25,16 +25,22 @@ revealjs-plugins:
   - attribution
 ```
 
-Here's an example usage of the `attribution` plugin:
+Then, add an attribution by including it in div with the `.attribution` class:
+
+```{.markdown}
+::: {.attribution}
+Photo courtesy of [@ingtotheforest](https://unsplash.com/@ingtotheforest)
+:::
+```
+
+You can see the attribution rendered on the far right of the slide here:
 
 ![](example.png)
 
 
-## Example
-
 View the above example presentation at <https://quarto-ext.github.io/attribution/>. 
 
-Source code for the example is available at [example.qmd](https://github.com/quarto-ext/attribution/blob/main/example.qmd).
+Full source code for the example is available at [example.qmd](https://github.com/quarto-ext/attribution/blob/main/example.qmd).
 
 
 
