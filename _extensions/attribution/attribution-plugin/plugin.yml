@@ -1,0 +1,5 @@
+name: RevealAttribution
+script:
+  - attribution.js
+stylesheet:
+  - attribution.css

@@ -1,0 +1,33 @@
+---
+title: "Revealjs Attribution Quarto Extension"
+subtitle: "Based on the attribution plugin by [@rschmehl](https://github.com/rschmehl/reveal-plugins)"
+format: revealjs
+revealjs-plugins:
+  - attribution
+---
+
+## Attribution Plugin
+
+::: {.columns}
+
+::: {.column width="60%"}
+This is a Reveal.js plugin for displaying attribution text in an unobtrusive way, sideways along the right edge of the slide. When resizing the viewport or using full screen mode, the text remains on the right edge of the viewport.
+
+Create an attribution with:
+
+```{.markdown}
+::: attribution
+Photo courtesy of [@ingtotheforest](https://unsplash.com/@ingtotheforest)
+:::
+```
+::: 
+
+::: {.column width="40%"}
+![](ingtotheforest.jpg)
+:::
+
+:::
+
+::: attribution
+Photo courtesy of [@ingtotheforest](https://unsplash.com/@ingtotheforest)
+:::
