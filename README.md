@@ -25,11 +25,17 @@ revealjs-plugins:
   - attribution
 ```
 
+Here's an example usage of the `attribution` plugin:
+
+![](example.png)
+
+
 ## Example
 
 View the above example presentation at <https://quarto-ext.github.io/attribution/>. 
 
-Source code for the example is available at [example.qmd]
+Source code for the example is available at [example.qmd](https://github.com/quarto-ext/attribution/blob/main/example.qmd).
+
 
 
 
