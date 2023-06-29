@@ -7,7 +7,7 @@ A Revealjs plugin extension for displaying attribution text sideways along the r
 ## Installation
 
 ```
-quarto install extension quarto-ext/attribution
+quarto add quarto-ext/attribution
 ```
 
 This will install the extension under the `_extensions` subdirectory. If you're using version control, you will want to check in this directory.
