@@ -10,6 +10,7 @@
   text-align: center;
   writing-mode: vertical-lr;
   transform: translate( -50%, -50% ) scale( 100% ) rotate(-180deg);
+  text-orientation: sideways;
 }
 
 /* Attribution plugin: activate pointer events for attribution text only */
